@@ -1,2 +1,2 @@
 # Connect-4
-Java program to play connect 4 on the terminal
+Created Connect 4 to be played on the terminal using Java OOP
